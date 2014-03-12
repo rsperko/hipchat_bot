@@ -1,2 +1,4 @@
 hubot.conf
 bin/hubot
+
+hubot_startup
